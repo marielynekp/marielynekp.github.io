@@ -1,2 +1,2 @@
-# marielynekp.githup.io
+# marielynekp.github.io
 Website
